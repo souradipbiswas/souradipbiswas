@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Souradip Biswas, a Full Stack Developer 🚀 from India
-- 👨🏽‍💻 I’m currently looking for full time remote opportunities;
+- 👨🏽‍💻 I’m presently looking for full time remote opportunities;
 - 📫 I’m currently making my portfolio website at https://souradipbiswas.com;
 - 💬 Ask me about anything, I am happy to help;
 - 👀 Please feel free to contact me at any time by email: souradipbiswas@outlook.com;
