@@ -3,7 +3,7 @@
 - 💬 Ask me about anything, I am happy to help;
 - 📫 You can visit my portfolio website at https://souradipbiswas.com;
 - 👀 Please feel free to contact me at any time by email: souradipbiswas@outlook.com;
-- 🌱 You can connect me on Linkedin as well: www.linkedin.com/in/souradip-biswas;
+- 🌱 You can connect me on Linkedin as well: www.linkedin.com/in/souradipbiswas;
 
 
 
