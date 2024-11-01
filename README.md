@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Souradip Biswas, a Programmer 🚀 from India
 - 👨🏽‍💻 I’m presently looking for remote web development projects;
 - 💬 Ask me about anything, I am happy to help;
-- 📫 You can visit my portfolio website at https://souradipbiswas.com;
 - 👀 Please feel free to contact me at any time by email: souradipbiswas@outlook.com;
 
 
